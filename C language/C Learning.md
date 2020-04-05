@@ -7,7 +7,7 @@ Hello Word Code
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
+   printf("Hello, World!\n"); # \n display the output text in new line.
    return 0;
 }
 ```

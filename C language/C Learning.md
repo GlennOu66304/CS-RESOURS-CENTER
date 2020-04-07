@@ -25,3 +25,11 @@ ztdeMacBook-Air:MyFirstProgram zt$
 ```
 Developing C programs on Mac OS
 <br>https://www.cs.auckland.ac.nz/~paul/C/Mac/
+
+Learning Material:
+
+1.The C Programming Language,Second Edition:
+<br>https://learning.oreilly.com/library/view/the-c-programming/9780133086249/ch01.html
+
+2.ACM Log page:
+<br>https://myacm.acm.org/dashboard.cfm?svc=dl&CFID=21809806&CFTOKEN=f025334dec40e49b-511B901A-E74F-3539-180BB38E62175796

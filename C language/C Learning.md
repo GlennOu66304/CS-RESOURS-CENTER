@@ -2,9 +2,11 @@
 
 1. Write your First "Hello Word" in C
 
+
+
 Hello Word Code
 ```
-#include <stdio.h>
+#include <stdio.h>  
 int main() {
    // printf() displays the string inside quotation
    printf("Hello, World!\n"); # \n display the output text in new line.

@@ -30,8 +30,21 @@ Developing C programs on Mac OS
 
 Learning Material:
 
+--Book Recomendation:
+
 1.The C Programming Language,Second Edition:
 <br>https://learning.oreilly.com/library/view/the-c-programming/9780133086249/ch01.html
 
 2.ACM Log page:
 <br>https://myacm.acm.org/dashboard.cfm?svc=dl&CFID=21809806&CFTOKEN=f025334dec40e49b-511B901A-E74F-3539-180BB38E62175796
+
+--Video Content:
+
+1.C for Everyone: Programming Fundamentals [University Of California]
+<br>https://www.coursera.org/learn/c-for-everyone
+
+2.Introduction to Programming in C Specialization [ Duke University]
+<br>https://www.coursera.org/specializations/c-programming
+
+3.Gain skills in in computer engineering by learning C and Linux [Dart Mouth]
+<br>https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux?utm_source=KeystoneAcademic&utm_medium=display&utm_campaign=dartmouth-imtx-c-programming-with-linux

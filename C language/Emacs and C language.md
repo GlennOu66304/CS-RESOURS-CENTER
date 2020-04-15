@@ -1,4 +1,5 @@
 # Emacs and C language
+## 1.Homebrew building Emacs:
 
 1.installed the homebrew:
 
@@ -259,3 +260,8 @@ Further help:
 ztdeMacBook-Air:~ zt$ 
 ```
 3.
+## II. directly using the universal binaries version.
+Emacs For Mac OS X
+<br>https://emacsformacosx.com/
+
+### III. Macports installed the Emacs.

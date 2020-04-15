@@ -260,8 +260,20 @@ Further help:
 ztdeMacBook-Air:~ zt$ 
 ```
 3.
+
+Reference Link:
+
+Install Homebrew
+<br>https://brew.sh/
+I have problem with installation. Please help me!
+<br>https://discourse.brew.sh/t/i-have-problem-with-installation-please-help-me/2906
 ## II. directly using the universal binaries version.
 Emacs For Mac OS X
 <br>https://emacsformacosx.com/
 
 ### III. Macports installed the Emacs.
+
+Reference Link:
+
+Emacs GNU EmacsDownload & installation
+<br>https://www.gnu.org/software/emacs/download.html

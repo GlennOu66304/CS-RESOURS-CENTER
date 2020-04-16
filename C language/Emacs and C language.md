@@ -228,7 +228,30 @@ Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'...
 ```
 If you are using VPN and the commands stucked here, you need to close your VPN, then your commands will continue running.
 ```
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (4/4), done.
+error: RPC failed; curl 56 LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 54
+fatal: the remote end hung up unexpectedly
+fatal: early EOF
+fatal: index-pack failed
+Error: Failure while executing; `git clone https://github.com/Homebrew/homebrew-core /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core` exited with 128.
+Error: Failure while executing; `/usr/local/bin/brew tap homebrew/core` exited with 1.
+Failed during: /usr/local/bin/brew update --force
+==> Installation successful!
 
+==> Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (or will be during this `install` run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run `brew help` to get started
+- Further documentation: 
+    https://docs.brew.sh
 ```
 
 2. To check if you have home brew:

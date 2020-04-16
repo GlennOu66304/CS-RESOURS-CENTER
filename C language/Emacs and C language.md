@@ -254,6 +254,20 @@ No analytics data has been sent yet (or will be during this `install` run).
     https://docs.brew.sh
 ```
 
+Fix installing issue:
+
+```
+ztdeMacBook-Air:~ zt$ git clone https://github.com/Homebrew/homebrew-core /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core --depth=1
+Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'...
+remote: Enumerating objects: 5177, done.
+remote: Counting objects: 100% (5177/5177), done.
+remote: Compressing objects: 100% (4969/4969), done.
+remote: Total 5177 (delta 48), reused 321 (delta 9), pack-reused 0
+Receiving objects: 100% (5177/5177), 4.19 MiB | 14.00 KiB/s, done.
+Resolving deltas: 100% (48/48), done.
+Updating files: 100% (5196/5196), done.
+```
+
 2. To check if you have home brew:
 ```
 ztdeMacBook-Air:~ zt$ brew help
@@ -282,9 +296,12 @@ Further help:
   https://docs.brew.sh
 ztdeMacBook-Air:~ zt$ 
 ```
-3.
 
-Reference Link:
+Homebrew install Emacs
+```
+
+```
+4.Reference Link:
 
 Install Homebrew
 <br>https://brew.sh/

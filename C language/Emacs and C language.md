@@ -299,7 +299,26 @@ ztdeMacBook-Air:~ zt$
 
 Homebrew install Emacs
 ```
-
+ztdeMacBook-Air:~ zt$ brew cask install emacs
+Updating Homebrew...
+==> Tapping homebrew/cask
+Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask'...
+remote: Enumerating objects: 75, done.
+remote: Counting objects: 100% (75/75), done.
+remote: Compressing objects: 100% (68/68), done.
+error: RPC failed; curl 56 LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 54
+fatal: the remote end hung up unexpectedly
+fatal: early EOF
+fatal: index-pack failed
+Error: Failure while executing; `git clone https://github.com/Homebrew/homebrew-cask /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask` exited with 128.
+Follow the instructions here:
+  https://github.com/Homebrew/homebrew-cask#reporting-bugs
+/usr/local/Homebrew/Library/Homebrew/utils.rb:265:in `safe_system'
+/usr/local/Homebrew/Library/Homebrew/tap.rb:273:in `install'
+/usr/local/Homebrew/Library/Homebrew/cask/cmd.rb:142:in `run'
+/usr/local/Homebrew/Library/Homebrew/cask/cmd.rb:92:in `run'
+/usr/local/Homebrew/Library/Homebrew/cmd/cask.rb:9:in `cask'
+/usr/local/Homebrew/Library/Homebrew/brew.rb:110:in `<main>'
 ```
 4.Reference Link:
 

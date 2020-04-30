@@ -505,6 +505,9 @@ Install Homebrew
 
 I have problem with installation. Please help me!
 <br>https://discourse.brew.sh/t/i-have-problem-with-installation-please-help-me/2906
+
+
+Trouble install Homebrew
 ## II. directly using the universal binaries version.
 Emacs For Mac OS X
 <br>https://emacsformacosx.com/

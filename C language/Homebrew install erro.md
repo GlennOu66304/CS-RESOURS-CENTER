@@ -159,7 +159,8 @@ zhanghuiqiao@zhanghuiqiaodeMacBook-Pro ~ %
 <br>https://zhuanlan.zhihu.com/p/111014448
 
 3.Quick find a file in Mac finder:Shift + Command + G
-Possible Link you can refre:
+
+<br>Possible Link you can refre:
 <br>git clone出错：Failed to connect to github.com port 443 Operation timed out
 <br>https://www.crifan.com/git_clone_failed_to_connect_to_github_com_port_443_operation_timed_out/
 <br>Failed to connect to github.com port 443: Timed out [English]

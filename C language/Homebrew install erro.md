@@ -1,7 +1,7 @@
 # Homebrew install erro
 
 1.First you need to refer the link below to try installing homebrew:
-<br>1.Homebrew building Emacs:
+<br>Homebrew building Emacs:
 <br>https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Emacs%20and%20C%20language.md
 
 2.If you can not downlaod the resource from above, try Utilizing the Chinese Homebrew version to install it.

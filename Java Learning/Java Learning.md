@@ -16,6 +16,8 @@ THE JAVA LANGUAGE CHEAT SHEET
 ## Video Course
 Java Programming Basics
 <br>https://www.udacity.com/course/java-programming-basics--ud282
+<br>Object Oriented Programming in Java
+<br>https://www.udacity.com/course/object-oriented-programming-in-java--ud283
 ## Book
 Effective Java, 3rd Edition
 <br>https://learning.oreilly.com/library/view/effective-java-3rd/9780134686097/

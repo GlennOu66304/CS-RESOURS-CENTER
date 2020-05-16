@@ -18,3 +18,5 @@ LeetCode题解，151道题完整版
 <br>https://github.com/haoel/leetcode
 <br>awesome-java-leetcode
 <br>https://github.com/Blankj/awesome-java-leetcode
+<br>算法/数据结构/Python/剑指offer/机器学习/leetcode
+<br>https://github.com/Jack-Lee-Hiter/AlgorithmsByPython

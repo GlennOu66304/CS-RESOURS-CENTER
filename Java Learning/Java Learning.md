@@ -1,4 +1,13 @@
 # Java Learning.
+
+## Code in InteliJ IDEA
+IntelliJ IDEA First Java Program
+<br>https://www.javatpoint.com/intellij-idea-first-java-program
+Create your first Java application
+<br>https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html
+
+
+
 ## Project Code:
 HouariZegai /Calculator
 <br>https://github.com/HouariZegai/Calculator

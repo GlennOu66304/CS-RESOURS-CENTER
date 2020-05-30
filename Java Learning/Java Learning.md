@@ -30,7 +30,7 @@ Java Programming Basics
 ## Book
 Effective Java, 3rd Edition
 <br>https://learning.oreilly.com/library/view/effective-java-3rd/9780134686097/
-Learning Java
+<br>Learning Java
 <br>http://shop.oreilly.com/product/9781565927186.do
 <br>Java in a Nutshell, 7th Edition
 <br>http://shop.oreilly.com/product/0636920156727.do

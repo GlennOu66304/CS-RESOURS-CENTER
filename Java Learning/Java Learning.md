@@ -1,4 +1,4 @@
-# Java Learning.
+# Java Learning
 ## Enviroment Building: 
 1.download the JDK from Orcale website:[from this page](http://www.oracle.com/technetwork/java/javase/downloads/index.html)   
 Reference:[Mac: Install Java Development Kit](https://classroom.udacity.com/courses/ud282/lessons/8186340458/concepts/8ddd79b0-5a61-4e10-883a-95ff366e97a9)

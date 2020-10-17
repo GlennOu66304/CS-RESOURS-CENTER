@@ -18,14 +18,15 @@ You need to change your VPN mode Stealth to open this link.
 Simply right  click the main file and choose the run  'Main.main', then the project couold be able to run again;  
 [Intellij Idea - Running Projects](https://www.tutorialspoint.com/intellij_idea/intellij_idea_running_projects.htm)  
 
-
-
 ## Code in InteliJ IDEA
 IntelliJ IDEA First Java Program
 <br>https://www.javatpoint.com/intellij-idea-first-java-program
 <br>Create your first Java application
 <br>https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html
 
+## add the plugin to the intelJ Idea: 
+[Manage plugins](https://www.jetbrains.com/help/idea/managing-plugins.html)  
+[leetcode editor](https://plugins.jetbrains.com/plugin/12132-leetcode-editor/versions) 
 
 
 ## Project Code:

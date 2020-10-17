@@ -42,12 +42,16 @@ THE JAVA LANGUAGE CHEAT SHEET
 <br>Java Programming Cheatsheet
 <br>https://introcs.cs.princeton.edu/java/11cheatsheet/
 <br>Cheat sheet interactive
-<br>https://overapi.com/java
+<br>https://overapi.com/java 
+[Java Tutorial](https://www.w3schools.com/java/default.asp)  
+[Java | How to start learning Java](https://www.geeksforgeeks.org/java-how-to-start-learning-java/)  
+[Java Programming Language](https://www.geeksforgeeks.org/java/)  
 ## Video Course
 Java Programming Basics
 <br>https://www.udacity.com/course/java-programming-basics--ud282
 <br>Object Oriented Programming in Java
-<br>https://www.udacity.com/course/object-oriented-programming-in-java--ud283
+<br>https://www.udacity.com/course/object-oriented-programming-in-java--ud283  
+[Java Programming Tutorial | Beginning Java programming with Hello World Example | GeeksforGeeks](https://www.youtube.com/watch?v=lcJzw0JGfeE&list=PLqM7alHXFySENpNgw27MzGxLzNJuC_Kdj&ab_channel=GeeksforGeeks)  
 ## Book
 Effective Java, 3rd Edition
 <br>https://learning.oreilly.com/library/view/effective-java-3rd/9780134686097/

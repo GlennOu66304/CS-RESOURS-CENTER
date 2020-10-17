@@ -5,7 +5,10 @@ LeetCode Solutions
 Udemy course  
 极客时间
 
-### Github Link:
+### Github Link:   
+1.Video: [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org)  
+2.Source Code:[williamfiset Algorithms](https://github.com/williamfiset/Algorithms)  
+3.[WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)  
 LeetCode题解，151道题完整版
 <br>https://github.com/soulmachine/leetcode
 <br>技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++

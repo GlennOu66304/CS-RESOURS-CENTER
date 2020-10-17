@@ -1,4 +1,12 @@
 # Java Learning.
+## Enviroment Building: 
+1.download the JDK from Orcale website:[from this page](http://www.oracle.com/technetwork/java/javase/downloads/index.html)   
+Reference:[Mac: Install Java Development Kit](https://classroom.udacity.com/courses/ud282/lessons/8186340458/concepts/8ddd79b0-5a61-4e10-883a-95ff366e97a9)
+
+You need to change your VPN mode Stealth to open this link.  
+2. download the Intellij as your Java Editor:[rom this website.](https://www.jetbrains.com/idea/download/#)  
+
+3. Run"Hello world" in the intellij: [Hello World in IntelliJ](https://classroom.udacity.com/courses/ud282/lessons/8186340458/concepts/1bf68bfd-737d-4c41-96f6-9c086e50926b)  
 
 ## Code in InteliJ IDEA
 IntelliJ IDEA First Java Program
@@ -36,3 +44,6 @@ Effective Java, 3rd Edition
 <br>http://shop.oreilly.com/product/0636920156727.do
 <br>10 top Java resources on the O’Reilly online learning platform
 <br>https://www.oreilly.com/content/10-top-java-resources-on-oreillys-online-learning-platform/
+
+
+##

@@ -15,7 +15,7 @@ You need to change your VPN mode Stealth to open this link.
 4.[Import a project](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html)  
 
 ## How to run a local project on Intelj IDEA:
-Simply right  click the main file and choose the run  'Main.main', then the project couold be able to run again;
+Simply right  click the main file and choose the run  'Main.main', then the project couold be able to run again;  
 [Intellij Idea - Running Projects](https://www.tutorialspoint.com/intellij_idea/intellij_idea_running_projects.htm)  
 
 

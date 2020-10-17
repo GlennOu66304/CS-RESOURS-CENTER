@@ -2,7 +2,7 @@
 ### Video Resources:
 LeetCode Solutions
 <br>https://www.youtube.com/watch?v=U6-X_QOwPcs&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-   
-Udemy course
+Udemy course  
 极客时间
 
 ### Github Link:

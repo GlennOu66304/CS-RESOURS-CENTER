@@ -44,12 +44,12 @@ Main Reference
 gcc number.c -o number -lm
 ```
 
-Main references:
-[beginners-C-program-examples/combine_calculator.c](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/combine_calculator.c) 
-[Compiling C program with math.h library in Linux.](https://www.includehelp.com/c-programming-questions/compiling-program-with-math-library-linux.aspx)  
+Main references:   
+[beginners-C-program-examples/combine_calculator.c](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/combine_calculator.c)   
+[Compiling C program with math.h library in Linux.](https://www.includehelp.com/c-programming-questions/compiling-program-with-math-library-linux.aspx)    
 
 References:  
-[Top 7 Exciting Project ideas in C For Beginners [2021]](https://www.upgrad.com/blog/project-ideas-in-c-for-beginners/)  
+[Top 7 Exciting Project ideas in C For Beginners [2021]](https://www.upgrad.com/blog/project-ideas-in-c-for-beginners/)    
 [C Project Based Tutorials?](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)  
 [50+ C/C++ Projects with Source Code](https://www.codewithc.com/c-projects-with-source-code/)  
 ### 3.Can not see the wifi in the Linux system:

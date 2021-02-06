@@ -1,4 +1,48 @@
 ## C learning 
+2021.02.6 
+## Linux internet extremely slow issue fixed: 
+## Vim install
+[Text editor Vim](http://www.linux-fuer-blinde.de/55-0-texteditor-vim.html)   
+
+### internet speed test:  
+
+main refernece:  
+[speedtest-cli](https://wiki.ubuntuusers.de/speedtest-cli/)  
+[How to resolve “dpkg: error processing /var/cache/apt/archives/python-apport_2.0.1-0ubuntu9_all.deb”?](https://askubuntu.com/questions/148383/how-to-resolve-dpkg-error-processing-var-cache-apt-archives-python-apport-2-0)  
+[speedtest-cli – Internet Speed Test In Linux Terminal](http://www.linuxandubuntu.com/home/speedtest-cli-internet-speed-test-in-linux-terminal)  
+[http://www.linuxandubuntu.com/home/speedtest-cli-internet-speed-test-in-linux-terminal](https://ostechnix.com/fix-sub-process-usr-bin-dpkg-returned-an-error-code-1-in-ubuntu/)  
+### Main reference:  
+
+[Fix very slow Internet on Ubuntu 18 easily.](https://securitronlinux.com/debian-testing/fix-very-slow-internet-on-ubuntu-18-easily/)  
+
+### Reference:  
+[linux下网速慢，但是在windows下网速正常，请问什么原因。?](https://www.zhihu.com/question/39738574)  
+[Ubuntu 16.04 minimal - extremely slow internet connection](https://unix.stackexchange.com/questions/366220/ubuntu-16-04-minimal-extremely-slow-internet-connection)   
+[Linux: Prefer IPv4 over IPv6 in dual-stack environment (and prevent problems when only IPv4 exists)](http://sf-alpha.bjgang.org/wordpress/2012/08/linux-prefer-ipv4-over-ipv6-in-dual-stack-environment-and-prevent-problems-when-only-ipv4-exists/)  
+
+
+## Video content learning:
+1.Do not forget to add the semicolon at the end of the code; 
+2.if you want to add the \n, make sure it is inside of the dobuble quote;
+
+Main refernce:  
+[Mike Dane C playlist](https://www.youtube.com/watch?v=9kMr0EsltqU)  
+
+## Book Reading learning:  
+1.finish the short chapter first time;   
+2.write down the key content list in the code block;  
+3.write down the code according to your understanding;  
+4.If you get stuck during writing the code, then go back to the certain paragraphs to look for the answer or borrow the power of the search engine;
+5.Document down the diffcult part to the code reading, then Save the code into the github file;  
+
+## Refinde boot install:
+sudo add-apt-repository ppa:rodsmith/refind && sudo apt update && sudo apt install refind && sudo refind-mkdefault
+
+Uninstall
+[How to remove rEFInd drivers completely from my ubuntu?](https://askubuntu.com/questions/856773/how-to-remove-refind-drivers-completely-from-my-ubuntu)  
+[Uninstalling rEFInd](https://www.rodsbooks.com/refind/installing.html#uinst_linux)  
+
+
 
 ## 2021.02.05 C learning Reading Note: 
 

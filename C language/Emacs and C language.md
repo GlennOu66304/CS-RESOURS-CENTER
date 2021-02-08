@@ -1,4 +1,16 @@
 # Emacs and C language
+
+### Emacs
+[7.1 How do I install Emacs?](https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Emacs.html)  
+[How to install emacs 24.3 on Ubuntu?](https://askubuntu.com/questions/297170/how-to-install-emacs-24-3-on-ubuntu)  
+
+### Tutorail  
+[Harley Hahn's Emacs Field Guide](https://sci-hub.se/https://doi.org/10.1007/978-1-4842-1703-0#)    
+[GNU Emacs Pocket Reference](https://learning.oreilly.com/library/view/gnu-emacs-pocket/1565924967/)  
+[Learning GNU Emacs, Second Edition](https://learning.oreilly.com/library/view/learning-gnu-emacs/1565921526/)  
+[Learning GNU Emacs, 3rd Edition](https://learning.oreilly.com/library/view/learning-gnu-emacs/0596006489/)  
+
+
 ## 1.Homebrew building Emacs:
 
 1.installed the homebrew:

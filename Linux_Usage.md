@@ -23,6 +23,9 @@ Terminal
 copy ctrl + shift + C
 paste ctrl + shift + p 
 
-
+## Linux ubunton Learing
+[7333.The Official Ubuntu Book (7th Edition) by Matthew Helmke.pdf](https://github.com/levunguyen/CGDN-Ebooks/blob/master/Server/7333.The%20Official%20Ubuntu%20Book%20(7th%20Edition)%20by%20Matthew%20Helmke.pdf)  
+[The Official Ubuntu Book, 9th Edition](https://learning.oreilly.com/library/view/the-official-ubuntu/9780134512501/)  
+[Ubuntu Linux Unleashed 2021 Edition, 14th Edition](https://learning.oreilly.com/library/view/the-official-ubuntu/9780134512501/)  
 
 

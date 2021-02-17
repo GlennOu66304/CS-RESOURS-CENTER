@@ -9,7 +9,7 @@ gradle enviroment building finished, it will cost like 30 to 60 minutes.
 
 ## Bug:What is Gradle build system in Kotlin?
 [What is Gradle build system in Kotlin?](https://stackoverflow.com/questions/63655084/what-is-gradle-build-system-in-kotlin)  
-##Create an application
+## Create an application
 [Create an application](https://kotlinlang.org/docs/jvm-get-started.html)  
 
 [Create and Run your First Kotlin Project in IntelliJ IDEA](https://beginnersbook.com/2017/12/create-and-run-your-first-kotlin-project-in-intellij-idea/)

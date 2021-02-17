@@ -1,4 +1,4 @@
-## shortcut to open the idea prfernece: Ctrl+Alt+SCtrl+Alt+S
+## shortcut to open the idea prfernece: Ctrl+Alt+S
 
 [Configure keyboard shortcuts](https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)  
 ## Can not run the program from [Create an application﻿](https://kotlinlang.org/docs/jvm-get-started.html)

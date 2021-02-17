@@ -1,3 +1,12 @@
+## shortcut to open the idea prfernece: Ctrl+Alt+SCtrl+Alt+S
+
+[Configure keyboard shortcuts](https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)  
+## Can not run the program from [Create an application﻿](https://kotlinlang.org/docs/jvm-get-started.html)
+When you follow the official documentation to  Create an application﻿,(Gradle build scripts in Kotlin. ) but that does not work out, you need to wait for the 
+gradle enviroment building finished, it will cost like 30 to 60 minutes.
+[Create an application﻿](https://kotlinlang.org/docs/jvm-get-started.html)  
+
+
 ## Bug:What is Gradle build system in Kotlin?
 [What is Gradle build system in Kotlin?](https://stackoverflow.com/questions/63655084/what-is-gradle-build-system-in-kotlin)  
 ##Create an application

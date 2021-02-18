@@ -1,4 +1,5 @@
-## Install the andrioid studio in the linux system:
+## Android Studio:
+### Install the andrioid studio in the linux system:
 1. download the file;
 [Android Studio](https://developer.android.com/studio/#system-requirements-a-namerequirementsa)   
 2. instructions to install it;
@@ -11,15 +12,9 @@ cd '/home/glenn/android-studio/bin'
 
 [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)  
 
-## Syntax reference:
-[Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
-[Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
 
-## Project Tutorial: 
-[Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss)  
-[Develop Android apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  
-
-## shortcut to open the idea prfernece: Ctrl+Alt+S
+## Jet brain idea IDE:
+###  shortcut to open the idea prfernece: Ctrl+Alt+S
 
 [Configure keyboard shortcuts](https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)  
 ## Can not run the program from [Create an application﻿](https://kotlinlang.org/docs/jvm-get-started.html)
@@ -56,3 +51,18 @@ cd bin
 
 Main reference:  
 [Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=linux)  
+
+## Learning Resource:
+## Syntax reference:
+[Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
+[Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
+
+## Project Tutorial: 
+[Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss)  
+[Develop Android apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  ## Syntax reference:
+[Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
+[Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
+
+## Project Tutorial: 
+[Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss)  
+[Develop Android apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  

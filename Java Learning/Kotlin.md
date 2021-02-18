@@ -1,4 +1,15 @@
 ## Android Studio:
+## Bug fixing: Android SDK is missing, out of date, or is missing templates. Please ensure you are using SDK version 22 or later
+
+[Android SDK is missing, out of date, or is missing templates. Please ensure you are using SDK version 22 or later](https://stackoverflow.com/questions/21794272/android-sdk-is-missing-out-of-date-or-is-missing-templates-please-ensure-you/53957154#:~:text=Open%20Android%20Studio%20and%20click,this%20by%20File%20%3E%20Close%20Project%20.&text=The%20welcome%20screen%20will%20detect,install%20the%20SDKs%20for%20you.https://stackoverflow.com/questions/21794272/android-sdk-is-missing-out-of-date-or-is-missing-templates-please-ensure-you/53957154#:~:text=Open%20Android%20Studio%20and%20click,this%20by%20File%20%3E%20Close%20Project%20.&text=The%20welcome%20screen%20will%20detect,install%20the%20SDKs%20for%20you.)
+
+References:  
+[Installing Android Studio Udacity](https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/214198cc-9eaf-483d-bc2c-4f2fcbb1e88f)   ## Bug fixing: Android SDK is missing, out of date, or is missing templates. Please ensure you are using SDK version 22 or later
+
+[Android SDK is missing, out of date, or is missing templates. Please ensure you are using SDK version 22 or later](https://stackoverflow.com/questions/21794272/android-sdk-is-missing-out-of-date-or-is-missing-templates-please-ensure-you/53957154#:~:text=Open%20Android%20Studio%20and%20click,this%20by%20File%20%3E%20Close%20Project%20.&text=The%20welcome%20screen%20will%20detect,install%20the%20SDKs%20for%20you.https://stackoverflow.com/questions/21794272/android-sdk-is-missing-out-of-date-or-is-missing-templates-please-ensure-you/53957154#:~:text=Open%20Android%20Studio%20and%20click,this%20by%20File%20%3E%20Close%20Project%20.&text=The%20welcome%20screen%20will%20detect,install%20the%20SDKs%20for%20you.)
+
+References:  
+[Installing Android Studio Udacity](https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/214198cc-9eaf-483d-bc2c-4f2fcbb1e88f)   
 ### Install the andrioid studio in the linux system:
 1. download the file;
 [Android Studio](https://developer.android.com/studio/#system-requirements-a-namerequirementsa)   

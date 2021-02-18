@@ -1,3 +1,16 @@
+## Install the andrioid studio in the linux system:
+1. download the file;
+[Android Studio](https://developer.android.com/studio/#system-requirements-a-namerequirementsa)   
+2. instructions to install it;
+3. Run it from the system;
+```
+cd '/home/glenn/android-studio/bin' 
+./studio.sh
+```
+[Install Android Studio](https://developer.android.com/studio/install)  
+
+[Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)  
+
 ## Syntax reference:
 [Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
 [Develop Android apps with Kotlin](https://developer.android.com/kotlin)  

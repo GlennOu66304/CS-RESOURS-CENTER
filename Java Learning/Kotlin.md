@@ -4,9 +4,7 @@
 
 ## Project Tutorial: 
 [Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss)  
-
-[Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
-[Objective-C for Swift Developers](https://classroom.udacity.com/courses/ud1009)  
+[Develop Android apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  
 
 ## shortcut to open the idea prfernece: Ctrl+Alt+S
 

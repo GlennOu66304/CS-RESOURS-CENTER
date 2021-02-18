@@ -1,4 +1,4 @@
-## Syntex reference:
+## Syntax reference:
 [Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
 [Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
 

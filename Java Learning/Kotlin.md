@@ -1,3 +1,13 @@
+## Syntex reference:
+[Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
+[Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
+
+## Project Tutorial: 
+[Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss)  
+
+[Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
+[Objective-C for Swift Developers](https://classroom.udacity.com/courses/ud1009)  
+
 ## shortcut to open the idea prfernece: Ctrl+Alt+S
 
 [Configure keyboard shortcuts](https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)  

@@ -1,3 +1,19 @@
+
+## Kotlin:  
+## Comment: 
+Single comment:
+```
+//
+```
+Block comment:
+```
+/*
+*/
+```
+[Kotlin Comments](https://www.programiz.com/kotlin-programming/comments) 
+## Android Documentation
+[Android Documentation](https://developer.android.com/guide/topics/manifest/manifest-intro)  
+
 ## Android Studio:
 ## Bug fixing: Android SDK is missing, out of date, or is missing templates. Please ensure you are using SDK version 22 or later
 

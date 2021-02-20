@@ -88,7 +88,9 @@ Main reference:
 
 ## Project Tutorial: 
 [Build and Publish an Android App - Full Course with Kotlin](https://www.youtube.com/watch?v=C2DBDZKkLss)  
-[Develop Android apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  ## Syntax reference:
+[Develop Android apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  
+
+## Syntax reference:
 [Add sample code from Kotlin examples](https://kotlinlang.org/docs/jvm-get-started.html#what-s-next)  
 [Develop Android apps with Kotlin](https://developer.android.com/kotlin)  
 

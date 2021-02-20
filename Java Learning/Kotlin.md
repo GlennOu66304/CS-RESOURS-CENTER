@@ -1,6 +1,14 @@
 
 ## Kotlin:  
 
+## How you can extract an APK file using Android Studio?
+[How you can extract an APK file using Android Studio?](https://www.educative.io/edpresso/extracting-an-apk-file-from-android-studio)  
+
+## Where is android studio building my .apk file?
+[Where is android studio building my .apk file?](https://stackoverflow.com/questions/17702053/where-is-android-studio-building-my-apk-file)   
+
+
+
 ## Kotlin-Android First App Unresolved Reference TextView Button etc
 import android.widget.<WhateverIsMissing>
 ```

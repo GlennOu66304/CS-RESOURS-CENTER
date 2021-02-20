@@ -1,5 +1,13 @@
 
 ## Kotlin:  
+
+## Kotlin-Android First App Unresolved Reference TextView Button etc
+import android.widget.<WhateverIsMissing>
+```
+import android.widget.Button
+```
+[Kotlin-Android First App Unresolved Reference TextView Button etc](https://stackoverflow.com/questions/53470434/kotlin-android-first-app-unresolved-reference-textview-button-etchttps://stackoverflow.com/questions/53470434/kotlin-android-first-app-unresolved-reference-textview-button-etc)  
+ 
 ## Comment: 
 Single comment:
 ```

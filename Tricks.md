@@ -1,4 +1,8 @@
 ## Internet speed test cli:  
+Use it in the command line
+```
+speedtest or speedtest-cli
+```
 ### Homebrew install erro
 [Homebrew install erro](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Homebrew%20install%20erro.md)  
 

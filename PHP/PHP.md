@@ -12,7 +12,7 @@ sudo iptables -L
 [sudo ufw status return 'inactive'](https://www.digitalocean.com/community/questions/sudo-ufw-status-return-inactive)  
 
 ### Main reference:
-[How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 20.04How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04)  
+[How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04)  
 
 ### Reference:  
 [CRM.md](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Project%20%20%20building/CRM.md)  

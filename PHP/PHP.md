@@ -1,4 +1,34 @@
 ## PHP
+
+## Testing PHP Processing
+I've set up Apache, but I can't write to the '/var/www' folder
+```
+chown yourusername /var/www/html
+sudo chown glenn /var/www/html
+```
+[I've set up Apache, but I can't write to the '/var/www' folder](https://superuser.com/questions/278446/ive-set-up-apache-but-i-cant-write-to-the-var-www-folder)  
+
+## Server IP and IP
+
+Server IP and IP is the samething, you can use the code below to find your IP, then put it in to the http://, then you will see the effect:
+```
+ifconfig -a
+
+```
+http://your_server_ip
+
+### Run MySQl and stop it:
+Run MySQl, then type the password to login
+```
+mysql -u root -p
+```
+stop it:
+```
+mysql> exit
+```
+[ERROR 1045(28000) : Access denied for user 'root@localhost' (using password: no )](https://askubuntu.com/questions/401449/error-104528000-access-denied-for-user-rootlocalhost-using-password-no)  
+
+
 ### sudo ufw status return 'inactive'
 ```
 sudo ufw enable

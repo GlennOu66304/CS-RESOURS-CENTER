@@ -8,6 +8,7 @@ sudo -i gedit /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
 
 ```
 change the internet portal to 2 instead of 3, then the internet speed should have a big improment.  
+[Ubuntu 20.04 Network Performance Extremely Slow](https://askubuntu.com/questions/1230525/ubuntu-20-04-network-performance-extremely-slow)   
 ## Vim install
 [Text editor Vim](http://www.linux-fuer-blinde.de/55-0-texteditor-vim.html)   
 

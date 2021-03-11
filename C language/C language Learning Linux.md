@@ -1,6 +1,13 @@
 ## C learning 
 2021.02.6 
 ## Linux internet extremely slow issue fixed: 
+
+important strategy to use:  
+```
+sudo -i gedit /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
+
+```
+change the internet portal to 2 instead of 3, then the internet speed should have a big improment.  
 ## Vim install
 [Text editor Vim](http://www.linux-fuer-blinde.de/55-0-texteditor-vim.html)   
 

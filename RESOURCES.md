@@ -1,4 +1,8 @@
 ## CS RESOURCES CENTER
+
+### Road Map To Become A CS Guru:  
+[UoPeople Online Syllabus Repository (OSR)](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=113665)
+
 ### 程序员练级攻略  
 1.[71 | 程序员练级攻略：正式入门](https://time.geekbang.org/column/article/8217)  
 2.[[Code Complete (Developer Best Practices) Kindle Edition by Steve McConnell - 2004].pdf](https://github.com/ahmedfarhat/software-development-ebooks-1/blob/master/%5BCode%20Complete%20(Developer%20Best%20Practices)%20Kindle%20Edition%20by%20Steve%20McConnell%20-%202004%5D.pdf)  

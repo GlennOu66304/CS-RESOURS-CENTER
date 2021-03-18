@@ -1,5 +1,11 @@
 ## PHP
 
+## PHP from University of people 
+
+[CS 3305: Web Programming 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=39151). 
+
+[PHP Manual ](https://www.php.net/manual/en/index.php). 
+
 ## Testing PHP Processing
 I've set up Apache, but I can't write to the '/var/www' folder
 ```

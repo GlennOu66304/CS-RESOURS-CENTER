@@ -1,4 +1,4 @@
-#Embly Build your personal Video Libraty
+# Embly Build your personal Video Libraty
 
 ## Can not run the site in the web browser
 If you can not run your IP:8096, you need to make sure you give the IP to visit the port 8096, you can process it in the Baota, or prcess it in the Tecent Clound Security rules

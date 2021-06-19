@@ -22,7 +22,6 @@ Scan the folder
 [利用EverAver+Emby+Kodi打造本地AV（毛片）媒体库](https://pockies.github.io/2019/03/25/everaver-emby-kodi/)  
 [你的旧设备除了吃灰还能做什么？自家的简易多媒体管理中心搭建指南](https://www.gcores.com/articles/104964)  
 [EMBY用刮削好的Google Drive资源，直接挂载即可使用(VIP版)](https://blog.vwert.com/CloudStorage/Emby-GoogleDrive.html)  
-[EMBY用刮削好的Google Drive资源，直接挂载即可使用(VIP版)](https://blog.vwert.com/CloudStorage/Emby-GoogleDrive.html)  
 [【Emby使用的心酸历程总结，望后人少走弯路】](https://www.cnblogs.com/rickzhai/p/12653921.html)  
 [使用emby打造个人影视媒体库](https://www.mihu.live/archives/19/)  
 

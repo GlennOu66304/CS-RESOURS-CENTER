@@ -7,3 +7,4 @@
 [Tricks](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/Tricks.md).    
 [vim_and_bash.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/vim_and_bash.md).   
 [Linux_Usage.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/Linux_Usage.md).   
+[CS Fun](https://github.com/GlennOu66304/CS-RESOURS-CENTER/tree/master/CS_FUN).  

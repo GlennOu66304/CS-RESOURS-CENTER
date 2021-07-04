@@ -1,5 +1,18 @@
 # CS-RESOURS-CENTER
 
+## Data Structure & Algorithms
+
+## C
+
+## C++
+
+## Java
+
+## PHP
+
+## Other
+[Resources](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/RESOURCES.md). 
+
 ## Fun CS skill
 [Fuck Elon musk](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Backend/Fuck%20Elon%20musk.md).    
 [Source code Search.md](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Backend/Source%20code%20Search.md).     

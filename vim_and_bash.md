@@ -1,6 +1,25 @@
 
 
-## Shell in the mac:
+## Vim in the mac:
+
+## Vim full copy and full delete
+```
+全选（高亮显示）：按esc后，然后ggvG或者ggVG
+全部复制：按esc后，然后ggyG
+全部删除：按esc后，然后dG
+```
+You don't need to type the : just type the command then affect will apply.
+[Vim full copy and full delete](https://article.itxueyuan.com/4k3Daa)  
+
+
+## vim设置支持鼠标，光标定位，滚轮上下移动
+```
+:set mouse=a
+set mouse=a
+:set mouse-=a 
+```
+[vim设置支持鼠标，光标定位，滚轮上下移动](https://blog.csdn.net/weialemon/article/details/78894221)
+[VIM学习笔记 鼠标(Mouse)](https://zhuanlan.zhihu.com/p/38477934) 
 
 VI/VIM
 [Shell Scripting Crash Course - Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw&ab_channel=TraversyMedia)   

@@ -1,29 +1,5 @@
 # C
-## Gcc on mac  macOS Mojave
-```
-brew info gcc
-brew install gcc
-```
-[Install GCC 8 with Homebrew on macOS Mojave - Build C, C++ programs from Terminal.](https://www.youtube.com/watch?v=uLtugCY0Hiw)   
-
-## Emac
-
-[Emacs and C language](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Emacs%20and%20C%20language.md)   
-
-## Homebrew install erro
-[Homebrew install erro](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Homebrew%20install%20erro.md)   
-
-## Vim
-[VIM](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md)  
-## Video content learning:
-[Video content learning:](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md)  
-## Learning Note
-[2021.02.05 C learning Reading Note:](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md)   
-
-
-
-
-C Learning
+## C Learning
 
 1. Write your First "Hello Word" in C
 
@@ -51,7 +27,31 @@ ztdeMacBook-Air:MyFirstProgram zt$ ./runme
 ztdeMacBook-Air:MyFirstProgram zt$ 
 ```
 Developing C programs on Mac OS
-<br>https://www.cs.auckland.ac.nz/~paul/C/Mac/
+<br>https://www.cs.auckland.ac.nz/~paul/C/Mac/. 
+## Learning Note
+[2021.02.05 C learning Reading Note:](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md)  
+
+
+## Gcc on mac  macOS Mojave
+```
+brew info gcc
+brew install gcc
+```
+[Install GCC 8 with Homebrew on macOS Mojave - Build C, C++ programs from Terminal.](https://www.youtube.com/watch?v=uLtugCY0Hiw)   
+
+## Emac
+
+[Emacs and C language](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Emacs%20and%20C%20language.md)   
+
+## Homebrew install erro
+[Homebrew install erro](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Homebrew%20install%20erro.md)   
+
+## Vim
+[VIM](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md)  
+## Video content learning:
+[Video content learning:](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md)  
+ 
+
 
 Learning Material:
 

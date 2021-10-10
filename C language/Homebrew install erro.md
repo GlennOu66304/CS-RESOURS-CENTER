@@ -1,5 +1,16 @@
 # Homebrew install erro
 
+
+  
+## Brew command check:
+```
+brew list
+brew uninstall packageName
+```
+[List of all packages installed using Homebrew](https://apple.stackexchange.com/questions/101090/list-of-all-packages-installed-using-homebrew)    
+[How to Uninstall Packages with Homebrew](https://osxdaily.com/2018/07/29/uninstall-packages-homebrew-mac/)  
+
+
 1.First you need to refer the link below to try installing homebrew:
 <br>Homebrew building Emacs:
 <br>https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Emacs%20and%20C%20language.md

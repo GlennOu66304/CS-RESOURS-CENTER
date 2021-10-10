@@ -1,5 +1,6 @@
 # C
 ## C Learning
+人人都能学会的编程入:[人人都能学会的编程入](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E5%AD%A6%E4%BC%9A%E7%9A%84%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E8%AF%BE.md) 
 
 1. Write your First "Hello Word" in C
 

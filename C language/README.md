@@ -1,4 +1,10 @@
 # C
+## Gcc on mac  macOS Mojave
+```
+brew info gcc
+brew install gcc
+```
+[Install GCC 8 with Homebrew on macOS Mojave - Build C, C++ programs from Terminal.](https://www.youtube.com/watch?v=uLtugCY0Hiw)   
 
 ## Emac
 

@@ -4,6 +4,30 @@
 [UoPeople Online Syllabus Repository (OSR)](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=113665)
 
 ### 程序员练级攻略  
+# Zero
+
+## python
+
+## Javascrip
+
+## Lniux
+
+## 编程工具 Visual Studio Code
+
+## Web 编程入门
+Front end: html,css,javascript
+Back End: Node, PHP
+[70 | 程序员练级攻略：零基础启蒙](https://time.geekbang.org/column/article/8216)
+# Begin
+## 编程技能
+## Java:
+---推荐《Java 核心技术（卷 1）》
+--- Head first Java
+---Spring in action
+--Spring Boot 实战
+## 编程工具
+[71 | 程序员练级攻略：正式入门](https://time.geekbang.org/column/article/8217)
+
 1.[71 | 程序员练级攻略：正式入门](https://time.geekbang.org/column/article/8217)  
 2.[[Code Complete (Developer Best Practices) Kindle Edition by Steve McConnell - 2004].pdf](https://github.com/ahmedfarhat/software-development-ebooks-1/blob/master/%5BCode%20Complete%20(Developer%20Best%20Practices)%20Kindle%20Edition%20by%20Steve%20McConnell%20-%202004%5D.pdf)  
 3.[Steve McConnell-Code Complete_ A Practical Handbook of Software Construction. 2 ed.-Microsoft Press.epub](https://github.com/manh-nguyen/ccomplete2/blob/master/Steve%20McConnell-Code%20Complete_%20A%20Practical%20Handbook%20of%20Software%20Construction.%202%20ed.-Microsoft%20Press.epub)   

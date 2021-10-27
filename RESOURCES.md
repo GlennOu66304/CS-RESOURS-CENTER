@@ -15,16 +15,17 @@
 ## 编程工具 Visual Studio Code
 
 ## Web 编程入门
-Front end: html,css,javascript
-Back End: Node, PHP
-[70 | 程序员练级攻略：零基础启蒙](https://time.geekbang.org/column/article/8216)
+Front end: html,css,javascript.   
+Back End: Node, PHP.   
+[70 | 程序员练级攻略：零基础启蒙](https://time.geekbang.org/column/article/8216).   
+
 # Begin
 ## 编程技能
 ## Java:
----推荐《Java 核心技术（卷 1）》
---- Head first Java
----Spring in action
---Spring Boot 实战
+---推荐《Java 核心技术（卷 1）》.  
+--- Head first Java.  
+---Spring in action.  
+--Spring Boot 实战.    
 ## 编程工具
 [71 | 程序员练级攻略：正式入门](https://time.geekbang.org/column/article/8217)
 

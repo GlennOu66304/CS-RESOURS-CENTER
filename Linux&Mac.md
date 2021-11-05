@@ -1,5 +1,8 @@
 # Install Ubumtu and centOs on VM ware
 
+## Apple can’t check app for malicious software
+[Apple can’t check app for malicious software](https://support.apple.com/guide/mac-help/apple-cant-check-app-for-malicious-software-mchleab3a043/mac)  
+
 ## 【系统安装】Mac在VMware Fusion安装Centos7
 
 [【系统安装】Mac在VMware Fusion安装Centos7](https://juejin.cn/post/6850418119124402183)

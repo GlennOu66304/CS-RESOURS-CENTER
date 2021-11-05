@@ -1,4 +1,65 @@
 # Emacs and C language
+## Emacs in mac and cent OS via terminal
+Mac:
+Versions of macOS prior to 10.15 Catalina include a copy of GNU Emacs 22 without GUI support compiled in and thus Emacs is automatically available on all but the most recent versions of macOS via the terminal. On macOS 10.15 Catalina and higher, mg (previously known as microGNUemacs) is still included. However, there are other Emacs distributions geared towards macOS that include GUI support as well as other features that may make it a more appropriate choice for some, if not most people.
+[Binaries for OS X](https://www.emacswiki.org/emacs/EmacsForMacOS)  
+
+[Your Mac Comes With Tetris - An Introduction to Emacs and the Terminal](https://www.youtube.com/watch?v=v4ZBudA6vpY)   
+
+CentOs:
+["Twitter Clone" Full-Stack Web Development project tutorial on LAMP (Linux, Apache, SQL, PHP)](https://www.youtube.com/watch?v=1YXqXPWjmKk)
+
+## Emacs learning:
+
+'C-f' or 'M-q'. These refer to the Control and Meta keys on your keyboard.
+C: Control
+M:alt
+[Basic Emacs Commands](https://web.physics.ucsb.edu/~pcs/apps/editors/emacs-basics.html)  
+
+###  check a buffer's full directory path.
+```
+ C-x C-b 
+```
+[What is the best way to display the full path of a file in emacs?](https://www.reddit.com/r/emacs/comments/cwnd57/what_is_the_best_way_to_display_the_full_path_of/)   
+
+## C-v
+C-V move to the next screen
+
+## Esc-v
+M-V to the previous screen
+
+##  cursor directory
+commands C-p, 
+C-b, 
+C-f, and C-n.  These characters
+are equivalent to the four arrow keys,
+### search a file:
+
+```
+C-x C-f /usr/rms/foo.c <RET>
+Save a file:
+```
+### create a file:
+```
+C-x C-f (find-file)
+```
+### save a file:
+```
+C-x C-s
+```
+[8.5 Files](http://gnu.ist.utl.pt/software/emacs/manual/emacs.html#Basic-Files)
+
+## Quit the emac:
+```
+C-x C-c
+```
+[How To Exit Emacs?](https://bzg.fr/en/how-to-exit-emacs/)   
+
+[How can I quit Emacs from within a term within Emacs?](https://emacs.stackexchange.com/questions/20903/how-can-i-quit-emacs-from-within-a-term-within-emacs)  
+
+
+
+
 
 ### Emacs
 [7.1 How do I install Emacs?](https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Emacs.html)  

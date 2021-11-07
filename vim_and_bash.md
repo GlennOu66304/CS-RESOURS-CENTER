@@ -2,6 +2,53 @@
 
 ## Vim in the mac:
 
+
+## Vim plugin manager:Vundle.vim
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim)   
+[Simple VIM Setup with Vundle](youtube.com/watch?v=UVgwbAAMLn4)   
+## insall a vs code theme with Vundle.vim
+[vim-code-dark](https://github.com/tomasiser/vim-code-dark)  
+
+You need to paste the install command in the .vimrc, then you run the install command to install the theme
+
+## Vim plugin manager :vim-pathogen
+[vim-pathogen](https://github.com/tpope/vim-pathogen)  
+[video install](youtube.com/watch?v=TwxZimBON8A)  
+
+## Linux check the hiden file
+[An Easy Way to Hide Files and Directories in Linux](https://www.tecmint.com/hide-files-and-directories-in-linux/)  
+
+
+## Bash:
+```
+“how to go back one directory in git bash” Code Answer
+To navigate to your home directory, use "cd" or "cd ~"
+To navigate up one directory level, use "cd .."
+To navigate to the previous directory (or back), use "cd -"
+To navigate into the root directory, use "cd /"
+```
+## Go to back directory browsing after opening file in vim
+```
+You can go back to the last buffer using :b#.
+
+If you just opened a file, then it will bring you just back to the directory browsing.
+
+Update: Since this answer happened to be accept as the correct answer and is thus on the top, I'd like to summarize a bit the answers, including the one by @romainl that imho is the correct one.
+
+:Rex[plore]: Return to Explorer (by @romainl) vimdoc.sourceforge
+:Explorer: opens the Explorer, same as :E (if not other command starting with E is defined (see stackoverflow), or as :Ex (see vim.wikia) (by @drug_user841417).
+:b#: goes back to the "previously edited buffers". See vim.wikia
+:e# or Ctrl-6 (or Ctrl-^): goes back to the "previously edited file" (by @aman-jain). See vim.wikia
+Ctrl-O: jump back to the previous (older) location, not necessarily a buffer (by @Peyman). See vim.wikia
+```
+[Go to back directory browsing after opening file in vim](https://stackoverflow.com/questions/9160499/go-to-back-directory-browsing-after-opening-file-in-vim)  
+## How to Show Line Numbers in Vim / Vi
+```
+:set nmber
+:set nonumber
+```
+[How to Show Line Numbers in Vim / Vi](https://linuxize.com/post/how-to-show-line-numbers-in-vim/)  
+
 ## Vim full copy and full delete
 ```
 全选（高亮显示）：按esc后，然后ggvG或者ggVG

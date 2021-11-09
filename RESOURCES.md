@@ -9,7 +9,7 @@
 [CS 4403: Software Engineering 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=46513)   
 
 ## CS 50: 
-You can check the sections stamp in the description page4
+You can check the sections stamp in the description page4.   
 [CS50 2020 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=5g0x2xv3aHU&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=9)   
 
 

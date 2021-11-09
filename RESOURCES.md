@@ -1,6 +1,16 @@
 # Computer Science Bachelor Degree
 
 ## Fullstack road
+## University of people
+
+PHP + html/css/javascript
+
+## Javascript
+[JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)   
+
+[Free e-Books, Free Journal Articles](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/37616/Freee-BooksFreeJournalArticles.pdf)
+
 
 ## University of people
 [CS 2205  WEB PROGRAMMING 1](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37616)     
@@ -9,11 +19,26 @@
 [CS 4403: Software Engineering 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=46513)   
 
 ## CS 50: 
+Python + html/css/javascript
+## Javascript
+
+[JavaScript](https://www.youtube.com/watch?v=5g0x2xv3aHU&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=10)  
+
+[Full Stack JavaScript.md](https://gist.github.com/imdwit/4889d16087b6ebe7821f) 
+
 You can check the sections stamp in the description page4.   
 [CS50 2020 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=5g0x2xv3aHU&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=9)   
 
 
 ## Other to Learning
+# Harvard CS 50
+
+
+## Scratch --> C--> Rest of it
+[Scratch](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=1&t=3623s)  
+[C](https://www.youtube.com/watch?v=zYierUhIFNQ)
+
+
 
 ## Github make notes
 

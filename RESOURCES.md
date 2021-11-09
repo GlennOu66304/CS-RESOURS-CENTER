@@ -1,5 +1,28 @@
+# Computer Science Bachelor Degree
+
+## Fullstack road
+
+## University of people
+[CS 2205  WEB PROGRAMMING 1](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37616)     
+[CS 3305 Web Programming 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=39151)   
+[CS 2401 Software Engineering 1](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37617)    
+[CS 4403: Software Engineering 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=46513)   
+
+## CS 50: 
+You can check the sections stamp in the description page4
+[CS50 2020 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=5g0x2xv3aHU&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=9)   
+
+
+## Other to Learning
+
+## Github make notes
+
 ## CS RESOURCES CENTER
 
+## Resource:
+[Syllabus on Harvard](https://cs50.harvard.edu/x/2021/syllabus/)  
+
+[Youtube](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 ### Road Map To Become A CS Guru:  
 [UoPeople Online Syllabus Repository (OSR)](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=113665)
 

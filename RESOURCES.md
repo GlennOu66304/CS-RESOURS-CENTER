@@ -6,8 +6,9 @@
 PHP + html/css/javascript
 
 ## Javascript
+[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) 
 [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics).   
-[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)       
+      
 
 [Free e-Books, Free Journal Articles](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/37616/Freee-BooksFreeJournalArticles.pdf).     
 

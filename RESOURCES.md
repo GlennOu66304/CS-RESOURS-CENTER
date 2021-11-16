@@ -1,7 +1,9 @@
 # Computer Science Bachelor Degree
 
-## Fullstack road
-## University of people
+# Fullstack road
+
+
+# University of people
 
 PHP + html/css/javascript
 
@@ -16,14 +18,13 @@ PHP + html/css/javascript
 
 [Free e-Books, Free Journal Articles](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/37616/Freee-BooksFreeJournalArticles.pdf).     
 
-
 ## University of people
 [CS 2205  WEB PROGRAMMING 1](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37616)     
 [CS 3305 Web Programming 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=39151)   
 [CS 2401 Software Engineering 1](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37617)    
 [CS 4403: Software Engineering 2](https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=46513)   
 
-## CS 50: 
+# CS 50: 
 Python + html/css/javascript
 
 
@@ -39,6 +40,8 @@ You can check the sections stamp in the description page4.
 
 
 ## Other to Learning
+
+
 # Harvard CS 50
 
 

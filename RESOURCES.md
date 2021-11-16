@@ -5,7 +5,11 @@
 
 PHP + html/css/javascript
 
-## Javascript
+
+
+
+
+## Resources:
 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).    
 [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics).   
       
@@ -21,7 +25,10 @@ PHP + html/css/javascript
 
 ## CS 50: 
 Python + html/css/javascript
-## Javascript
+
+
+
+## Resources
 
 [JavaScript](https://www.youtube.com/watch?v=5g0x2xv3aHU&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=10)  
 

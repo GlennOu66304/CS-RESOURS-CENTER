@@ -27,7 +27,7 @@ PHP + html/css/javascript
 # CS 50: 
 Python + html/css/javascript
 
-
+[From Scratch to javascript (CS50)](https://blog.glennou.cn/posts/2021/11/21/From-Scratch-to-javascript-CS50.html).  
 
 ## Resources
 

@@ -1,4 +1,20 @@
-## Linux Usage:
+# Linux Usage:
+
+### Ubutun Linux command:
+COPY command:
+```
+cp old_name new_name
+```
+[Ubuntu Copy File Command](https://www.cyberciti.biz/faq/ubuntu-copy-file-command/)  
+
+
+Remove file 
+```
+rm -r dirname
+```
+
+[How to Remove Files and Directories Using Linux Command Line](https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/) 
+
 
 ### Linux Ding Talk:
 https://github.com/nashaofu/dingtalk/releases

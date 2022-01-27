@@ -24,7 +24,7 @@
 [Markdown Cheatsheet](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/3.github_Using/Markdown%20Cheatsheet.md).  
 ## Vim and linux:
 [C language Learning Linux.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md).  
-[vim_and_bash.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/vim_and_bash.md).   
+[vim_and_bash(shell).md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/vim_and_bash.md).   
 [Linux_Usage.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/Linux_Usage.md).   
 [CS Fun](https://github.com/GlennOu66304/CS-RESOURS-CENTER/tree/master/CS_FUN).  
 

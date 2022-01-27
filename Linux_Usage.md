@@ -11,6 +11,7 @@ cp old_name new_name
 Remove file 
 ```
 rm -r dirname
+sudo rm -r dirname
 ```
 
 [How to Remove Files and Directories Using Linux Command Line](https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/) 

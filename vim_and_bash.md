@@ -36,6 +36,10 @@ To navigate into the root directory, use "cd /"
 
 [3 Ways To View Command Prompt History In Windows](https://www.itechtics.com/view-command-prompt-history-windows/) 
 
+## PWD 
+
+['pwd' is not recognized as an internal or external command operable program or batch file ](https://stackoverflow.com/questions/46638604/pwd-is-not-recognized-as-an-internal-or-external-command-operable-program-or-b) 
+
 ## Go to back directory browsing after opening file in vim
 ```
 You can go back to the last buffer using :b#.

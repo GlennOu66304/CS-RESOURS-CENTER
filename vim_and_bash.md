@@ -27,6 +27,15 @@ To navigate up one directory level, use "cd .."
 To navigate to the previous directory (or back), use "cd -"
 To navigate into the root directory, use "cd /"
 ```
+## 永久解决 windows powershell 和 CMD 中文显示问号及乱码问题
+[永久解决 windows powershell 和 CMD 中文显示问号及乱码问题](https://cloud.tencent.com/developer/article/1835811)
+[XPath Helper安装及使用](https://blog.csdn.net/heartbeat196/article/details/113790232) 
+[XPath 语法](https://www.w3school.com.cn/xpath/xpath_syntax.asp)   
+['ls' is not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/questions/49032646/ls-is-not-recognized-as-an-internal-or-external-command-operable-program-or-b)   
+[clear is not recognized as an internal or external command](https://stackoverflow.com/questions/29702053/clear-is-not-recognized-as-an-internal-or-external-command)   
+
+[3 Ways To View Command Prompt History In Windows](https://www.itechtics.com/view-command-prompt-history-windows/) 
+
 ## Go to back directory browsing after opening file in vim
 ```
 You can go back to the last buffer using :b#.

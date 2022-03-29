@@ -19,7 +19,11 @@ You need to paste the install command in the .vimrc, then you run the install co
 [An Easy Way to Hide Files and Directories in Linux](https://www.tecmint.com/hide-files-and-directories-in-linux/)  
 
 
-## Bash:
+## Terminal(Bash, ZSH):
+
+### Bash really slow:
+[Mac终端启动很慢解决方案](https://blog.csdn.net/Bobby_world/article/details/79673790)   
+[Mac OS X 终端打开速度慢的解决办法](https://huacnlee.com/blog/make-terminal-open-fast-in-mac-osx/)  
 ```
 “how to go back one directory in git bash” Code Answer
 To navigate to your home directory, use "cd" or "cd ~"

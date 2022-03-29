@@ -1,6 +1,26 @@
 # Java Learning
 ## Enviroment Building: 
 1.download the JDK from Orcale website:[from this page](http://www.oracle.com/technetwork/java/javase/downloads/index.html)   
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [classroom.udacity.com](https://classroom.udacity.com/courses/ud282/lessons/25293e79-04ae-438f-80ec-0ddba22f6f74/concepts/c0160443-0c73-4c65-a3e8-ce5e7f763ee1)
+
+> 1. Verify That You Have Java First, check if you have the Java Developer Kit, version 8 or greater al......
+
+> We're looking for the standard edition (SE) JDK. T
+
+> u need to start developing your apps with Java. As of June 2016, the download icon for the JDK looked like this:
+
+> you'll see a list of options for download.
+
+> Java SE Development Kit menu of options.
+
+> ke sure to read the heading at the to
+
+> open a terminal window and type: `java -version` and hit
+> 
+> 备注：  
+> Check the Java version first
+
+
 Reference:[Mac: Install Java Development Kit](https://classroom.udacity.com/courses/ud282/lessons/8186340458/concepts/8ddd79b0-5a61-4e10-883a-95ff366e97a9)  
 You need to change your VPN mode Stealth to open this link.  
 2.download the Intellij as your Java Editor:[rom this website.](https://www.jetbrains.com/idea/download/#)  

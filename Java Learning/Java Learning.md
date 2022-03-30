@@ -48,6 +48,19 @@ IntelliJ IDEA First Java Program
 [Manage plugins](https://www.jetbrains.com/help/idea/managing-plugins.html)  
 [leetcode editor](https://plugins.jetbrains.com/plugin/12132-leetcode-editor/versions) 
 
+4. IDEA java code theme in the vs codex
+1) You need to follow the procedure to find the Plugin market, then search the Plugin:Visual Studio Code Dark Plus Theme
+[Make your JetBrains IDE feel like VS Code](https://medium.com/@baptiste.arnaud95/make-your-intellij-feel-like-vs-code-9569035a2e23)  
+[Visual Studio Code Dark Plus Theme](https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme/reviews)   
+2) Then apply this theme into your IDEA editor Theme
+
+[Jet brain idea IDE Short cut](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/10f90113f288ef136b95904af8b40f62f6bffa2a/Java%20Learning/Kotlin.md)     
+[How to change the IntelliJ IDEA JDK version?](https://github.com/GlennOu66304/newBeeMall/blob/033d9863dafcf8f404775fbe74cc3fd49a8a0805/README.md)   
+[Can not find the spring inital in idea](https://github.com/GlennOu66304/newBeeMall/blob/033d9863dafcf8f404775fbe74cc3fd49a8a0805/README.md)   
+
+
+
+
 
 ## Project Code:
 HouariZegai /Calculator

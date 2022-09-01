@@ -32,6 +32,7 @@
 [vim_and_bash(shell).md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/vim_and_bash.md).   
 [Linux_Usage.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/Linux_Usage.md).   
 [CS Fun](https://github.com/GlennOu66304/CS-RESOURS-CENTER/tree/master/CS_FUN).  
+# [Online Life Hack](https://github.com/GlennOu66304/Online-Life-Hack)   
 
 ## Webstorm and VS code, sublime
 [webstorm, vscode](https://github.com/GlennOu66304/top_full_stack)

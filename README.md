@@ -6,6 +6,8 @@
 
 ## C++
 
+## Rust
+[Rust](https://github.com/GlennOu66304/Rust)   
 ## Java
 
 ## PHP

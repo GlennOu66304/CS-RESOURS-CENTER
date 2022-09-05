@@ -14,6 +14,11 @@ rm -r dirname
 sudo rm -r dirname
 ```
 
+remove a folder:
+```
+rm -d dirname
+rmdir dirname
+```
 [How to Remove Files and Directories Using Linux Command Line](https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/) 
 
 

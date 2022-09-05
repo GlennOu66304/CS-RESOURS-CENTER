@@ -1,5 +1,7 @@
 # Shell
 
+[Command File handling](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/Linux_Usage.md)   
+
 ## Linux check the hiden file
 [An Easy Way to Hide Files and Directories in Linux](https://www.tecmint.com/hide-files-and-directories-in-linux/)  
 

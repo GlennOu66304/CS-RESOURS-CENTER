@@ -1,6 +1,6 @@
 # Linux Usage:
 
-### Ubutun Linux command:
+## Ubutun Linux command:
 COPY command:
 ```
 cp old_name new_name

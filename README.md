@@ -22,8 +22,8 @@
 [C language Learning Linux.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/C%20language%20Learning%20Linux.md).  
 [Linux_Usage.md](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/Linux_Usage.md).  
 
-## Other
-[Resources](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/RESOURCES.md). 
+## Learning Resource
+[Learning Resource](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/RESOURCES.md). 
 
  
 # [Online Life Hack](https://github.com/GlennOu66304/Online-Life-Hack)   

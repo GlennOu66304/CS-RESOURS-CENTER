@@ -73,11 +73,11 @@ HouariZegai /Calculator
 
 ## Cheat sheet:
 THE JAVA LANGUAGE CHEAT SHEET
-<br>https://cs2113f18.github.io/java/JavaCheatSheet.pdf
-<br>Java Programming Cheatsheet
-<br>https://introcs.cs.princeton.edu/java/11cheatsheet/
-<br>Cheat sheet interactive
-<br>https://overapi.com/java 
+<br>https://cs2113f18.github.io/java/JavaCheatSheet.pdf   
+<br>Java Programming Cheatsheet   
+<br>https://introcs.cs.princeton.edu/java/11cheatsheet/   
+<br>Cheat sheet interactive  
+<br>https://overapi.com/java    
 [Java Tutorial](https://www.w3schools.com/java/default.asp)  
 [Java | How to start learning Java](https://www.geeksforgeeks.org/java-how-to-start-learning-java/)  
 [Java Programming Language](https://www.geeksforgeeks.org/java/)  

@@ -12,21 +12,21 @@ You can drag the folder into the desired folder Java
 [ 极客时间 / LetsJava](https://gitee.com/geektime-geekbang/LetsJava)     
 
 
-3.Java code variable 
-4.Format the code:
+3.Java code variable      
+4.Format the code:       
 Go to the "code" section, then choose the reform code section to format the code     
 [Referom the file](jetbrains.com/help/idea/reformat-and-rearrange-code.html?keymap=secondary_macos#reformat_file)    
-4.Github connect     
+4.Github connect         
 
 ## java usage 
-Spring
-github
-jikeshijian
-juejin
-two project
+Spring   
+github   
+jikeshijian    
+juejin   
+two project     
 
 Geek Time:
-1.Video, 
-2.Facebook,Algorithm 
+1.Video,    
+2.Facebook,Algorithm  
 3.Zuo erduo haozi
 Udemy(Bittiger Course)
